@@ -6,7 +6,7 @@ This project aims to develop a mobile application that can automatically detect 
 
 ## Development Approach
 
-This project was developed in accordance with the **Waterfall Model** methodology, as outlined in the attached documentation. Each phase—**Requirement Analysis**, **System Design**, **Implementation**, **Integration and Testing**, **Deployment**, and **Maintenance**—was sequentially executed to ensure a systematic and error-minimized development process. Details of this methodology can be found in the accompanying PDF document: [Waterfall Model Documentation](./Proje%20Raporu.pdf).
+This project was developed in accordance with the **Waterfall Model** methodology, as outlined in the attached documentation. Each phase **Requirement Analysis**, **System Design**, **Implementation**, **Integration and Testing**, **Deployment**, and **Maintenance**was sequentially executed to ensure a systematic and error-minimized development process. Details of this methodology can be found in the accompanying PDF document: [Waterfall Model Documentation](./Proje%20Raporu.pdf).
 
 
 ## Features
