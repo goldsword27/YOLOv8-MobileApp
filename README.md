@@ -14,8 +14,6 @@ You can download the latest release of the application here:
 
 [Download Fabric Inspector (Release Build)](./Fabric%20Inspector%20Release%20Build.apk)
 
----
-
 ## Usage
 
 1. **Open the mobile application**.
@@ -24,7 +22,7 @@ You can download the latest release of the application here:
 4. **The app will send the image to the backend server**, which processes it and returns the detection results.
 5. **The detected holes will be displayed on the image**, along with the number of holes and confidence scores.
 
-
+---
 
 ## Features
 
