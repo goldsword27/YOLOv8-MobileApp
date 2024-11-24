@@ -8,6 +8,23 @@ This project aims to develop a mobile application that can automatically detect 
 
 This project was developed in accordance with the **Waterfall Model** methodology, as outlined in the attached documentation. Each phase **Requirement Analysis**, **System Design**, **Implementation**, **Integration and Testing**, **Deployment**, and **Maintenance**was sequentially executed to ensure a systematic and error-minimized development process. Details of this methodology can be found in the accompanying PDF document: [Waterfall Model Documentation](./Proje%20Raporu.pdf).
 
+## Download
+
+You can download the latest release of the application here:
+
+[Download Fabric Inspector (Release Build)](./Fabric%20Inspector%20Release%20Build.apk)
+
+---
+
+## Usage
+
+1. **Open the mobile application**.
+2. **On the home screen**, choose to take a photo or select one from your gallery.
+3. **After selecting an image**, tap on the "Detect Holes" button.
+4. **The app will send the image to the backend server**, which processes it and returns the detection results.
+5. **The detected holes will be displayed on the image**, along with the number of holes and confidence scores.
+
+
 
 ## Features
 
