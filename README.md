@@ -4,6 +4,11 @@
 
 This project aims to develop a mobile application that can automatically detect holes in fabric using a deep learning model integrated into the app. The system involves training a YOLOv8-based object detection model to identify holes in fabric images and integrating this model into a user-friendly mobile application developed with Flutter. The backend is implemented using FastAPI to facilitate communication between the mobile app and the model.
 
+## Development Approach
+
+This project was developed in accordance with the **Waterfall Model** methodology, as outlined in the attached documentation. Each phase—**Requirement Analysis**, **System Design**, **Implementation**, **Integration and Testing**, **Deployment**, and **Maintenance**—was sequentially executed to ensure a systematic and error-minimized development process. Details of this methodology can be found in the accompanying PDF document: [Waterfall Model Documentation](./Proje%20Raporu.pdf).
+
+
 ## Features
 
 - **Automatic Hole Detection**: Utilizes a YOLOv8 deep learning model to detect holes in fabric images.
